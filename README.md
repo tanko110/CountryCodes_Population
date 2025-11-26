@@ -1,2 +1,2 @@
 This program uses definitions, while, for, if/elif/else statements, list, and tuples to  show the populations for a predefined list of country codes and their populations. User is prompted to enter the country code and its population is displayed. 
-Error handling in the program returns a message when a country code that is not predefined is entered. The program also converts lowercase letters to uppercase when it the result is display.
+Error handling in the program returns a message when a country code that is not predefined is entered and user is given a yes/no option to try again. The program also converts lowercase letters to uppercase when it the result is display.
